@@ -1,5 +1,5 @@
 ***
-![](avatarka.png)  
+![](assets\img\avatarka.png)  
 # Personal data
 ### _Zimnitski Uladzimir_
 ___Tel. +375 25 5131440___
@@ -10,7 +10,7 @@ ___Discord: WinterVol(@Volodia101)___
 ```
 ```
 # Education
-![](BNTU.png)
+![](assets\img\BNTU.png)
 ### _Belarusian National Technical University_
 * specialization - civil engineer
 ```
