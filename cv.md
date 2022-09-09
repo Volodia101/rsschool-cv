@@ -1,5 +1,5 @@
 ***
-![](assets\img\foto.jpg "foto autor")
+![](assets/img/foto.jpg "foto autor")
 
 ## Personal data
 #### _Zimnitski Uladzimir_
@@ -23,13 +23,13 @@ function multiply(a, b){
 ```
 ***
 ## Education
-![](assets\img\BNTU.png "logo university")
+![](assets/img/BNTU.png "logo university")
 #### _Belarusian National Technical University_
 Specialization - civil engineer
 
 ***
 ## Language
 
-![](assets\img\certificate_streamline_QR.jpg "Communicative english course at elementary level")
+![](assets/img/certificate_streamline_QR.jpg "Communicative english course at elementary level")
 
 Level english language - A2
