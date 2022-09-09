@@ -21,3 +21,15 @@ function multiply(a, b){
   return a * b
 }
 ```
+***
+## Education
+![](assets\img\BNTU.png "logo university")
+#### _Belarusian National Technical University_
+Specialization - civil engineer
+
+***
+## Language
+
+![](assets\img\certificate_streamline_QR.jpg "Communicative english course at elementary level")
+
+Level english language - A2
